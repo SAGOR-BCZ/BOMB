@@ -44,12 +44,12 @@ $ git clone --depth=1 https://github.com/Sagor-BCZ/BOMB
 $ cd BOMB
 $ python BCZ_BOMB.py
 
-## <b> For Tools Login</b>
-User    :SAGOR
-Password:BCZ
 
 ```
 
+## <b>For Tools Login</b>
+User    :SAGOR
+Password:BCZ
 
 # Single Command 
 
