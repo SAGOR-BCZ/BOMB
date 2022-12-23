@@ -42,7 +42,7 @@ $ pkg install git
 $ rm -rf BOMB
 $ git clone --depth=1 https://github.com/Sagor-BCZ/BOMB
 $ cd BOMB
-$ python BCZ_BOMB.py
+$ python BZ_BOMB.py
 
 
 ```
@@ -55,8 +55,9 @@ Password:BCZ
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone --depth=1 https://github.com/Sagor-BCZ/BOMB ; cd BOMB ; python BCZ_BOMB.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone --depth=1 https://github.com/Sagor-BCZ/BOMB ; cd BOMB ; python BZ_BOMB.py
 ```
 ANY PROBLEM THEN SHARE THIS TOOLS OWNER 👇
  
  [![Facebook](https://img.shields.io/badge/Facebook-sagor.official.0-blue?style=flat-square&logo=facebook)](https://www.facebook.com/sagor.official.0)</br>
+[COADER © FARHAN TANZIM SAGOR]
